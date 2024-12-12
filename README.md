@@ -18,5 +18,5 @@ Sou um desenvolvedor, criar soluções inovadoras e impactantes é comigo mesmo!
 - Criar produtos que impactem positivamente a vida das pessoas.
 
 ### Conecte-se Comigo 📫
-- Insta: Instagram.com/_cezarjc
+-Instagram.com/_cezarjc
 
