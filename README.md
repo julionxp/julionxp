@@ -10,7 +10,7 @@ Sou um desenvolvedor, criar soluções inovadoras e impactantes é comigo mesmo!
 
 ### Projetos Pessoais 🌱
 - **[Projeto 1]**: Um sistema de gerenciamento de bancário que ajuda o usuário a depositar, sacar e mostrar extrato bancário. Desenvolvido com Javascritp e HTML.
-- **[Projeto 2]**: Um sistema de gerenciamento de estacionamento. Desnvolvido com Javascript e HTML
+- **[Projeto 2]**: Um sistema de gerenciamento de estacionamento. Desenvolvido com Javascript e HTML
 
 ### Interessado(a) em Trabalhar com...
 - Desenvolvimento de sistemas escaláveis e de alta performance.
