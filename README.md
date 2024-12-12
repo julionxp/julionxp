@@ -1,16 +1,22 @@
-## Hi there 👋
+# Olá! Eu sou Julio Cezar 👋
 
+### Desenvolvedor | Criador | Tecnologia
 
-**julionxp/julionxp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um desenvolvedor, criar soluções inovadoras e impactantes é comigo mesmo! Busco sempre aprender e evoluir, explorando novas linguagens e ferramentas para melhorar a qualidade dos meus projetos.
 
-Here are some ideas to get you started:
+### Habilidades Técnicas 🚀
+- **Linguagens**: JavaScript, HTML/CSS, Java
+- **Outros**: Desenvolvimento Full-stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Projetos Pessoais 🌱
+- **[Projeto 1]**: Um sistema de gerenciamento de bancário que ajuda usuário a depositar, sacar e mostrar extrato bancário. Desenvolvido com javascritp e HTML.
+- **[Projeto 2]**: Um sistema de gerenciamento de estacionamento.
+
+### Interessado(a) em Trabalhar com...
+- Desenvolvimento de sistemas escaláveis e de alta performance.
+- Explorar novas tecnologias e frameworks.
+- Criar produtos que impactem positivamente a vida das pessoas.
+
+### Conecte-se Comigo 📫
+- Insta: Instagram.com/_cezarjc
 
