@@ -9,7 +9,7 @@ Sou um desenvolvedor, criar soluções inovadoras e impactantes é comigo mesmo!
 - **Outros**: Desenvolvimento Full-stack
 
 ### Projetos Pessoais 🌱
-- **[Projeto 1]**: Um sistema de gerenciamento de bancário que ajuda usuário a depositar, sacar e mostrar extrato bancário. Desenvolvido com javascritp e HTML.
+- **[Projeto 1]**: Um sistema de gerenciamento de bancário que ajuda o usuário a depositar, sacar e mostrar extrato bancário. Desenvolvido com javascritp e HTML.
 - **[Projeto 2]**: Um sistema de gerenciamento de estacionamento.
 
 ### Interessado(a) em Trabalhar com...
