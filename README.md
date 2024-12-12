@@ -1,4 +1,4 @@
-# Olá! Eu sou Julio Cezar 👋
+# Olá! Eu sou Júlio Cezar 👋
 
 ### Desenvolvedor | Criador | Tecnologia
 
