@@ -34,5 +34,4 @@ Em desenvolvimento em equipe, o Projeto Milano é um e-commerce com:
 
 ## Contate Comigo
 📸 Instagram: instagram.com/_cezarjc
-🔗 LinkedIn: linkedin.com/in/júlio-cezar-408a46270
 
