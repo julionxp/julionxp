@@ -3,7 +3,7 @@
 <h1 align="center">👋 Olá, eu sou o Júlio Cezar!</h1>
 
 <p align="center">
-  🚀 Programador Full Stack | 💡 Estudante de Cibersegurança  
+  Programador Full Stack | Estudante de Cibersegurança  
 </p>
 
 ---
