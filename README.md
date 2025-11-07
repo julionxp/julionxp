@@ -59,7 +59,7 @@
 
 ## Conecte-se comigo
 
-<div align="left">
+<div align="center">
   <a href="mailto:juliondiniz@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-FFFFFF?style=for-the-badge&logo=gmail&logoColor=EA4335" />
   </a>
