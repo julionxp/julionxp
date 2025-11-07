@@ -64,7 +64,7 @@
 ### 🐍 Animação de Commits
 
 <p align="center">
-  <img src="https://github.com/julionxp/julionxp/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/julionxp/output/main/github-contribution-grid-snake.svg" alt="snake" />
 </p>
 
 ---
