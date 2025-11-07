@@ -1,5 +1,4 @@
 <!-- Perfil: https://github.com/julionxp -->
-<div align="center">
 
 <h1 align="center">👋 Olá, eu sou o Júlio Cezar!</h1>
 
@@ -19,7 +18,7 @@
 
 ### 🛠️ Tecnologias & Ferramentas
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
@@ -33,7 +32,7 @@
 
 ### 📊 GitHub Status
 
-<div align="center">
+<div align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=julionxp&show_icons=true&include_all_commits=true&count_private=true&title_color=FFFFFF&icon_color=2496ED&text_color=FFFFFF&bg_color=0D1117&hide_border=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julionxp&layout=compact&langs_count=7&title_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117&hide_border=true" />
 </div>
@@ -59,7 +58,7 @@
 
 ## Conecte-se comigo
 
-<div align="center">
+<div align="left">
   <a href="mailto:juliondiniz@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-FFFFFF?style=for-the-badge&logo=gmail&logoColor=EA4335" />
   </a>
@@ -70,4 +69,3 @@
 </div>
 
 ---
-</div>
