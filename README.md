@@ -22,19 +22,17 @@
 
 ---
 
-### 📊 GitHub Status
+## GitHub Stats
 
-<div align="left">
+<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=julionxp&show_icons=true&include_all_commits=true&count_private=true&title_color=FFFFFF&icon_color=2496ED&text_color=FFFFFF&bg_color=0D1117&hide_border=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julionxp&layout=compact&langs_count=7&title_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117&hide_border=true" />
 </div>
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/julionxp/jooseryan/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/julionxp/jooseryan/output/github-contribution-grid-snake.svg">
-  <p align="center">
-    <img src="https://github.com/julionxp/julionxp/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-  </p>
+<picture align="">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jooseryan/julionxp/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jooseryan/julionxp/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jooseryan/julionxp/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
 ---
