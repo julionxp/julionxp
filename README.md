@@ -41,12 +41,13 @@
 
 | Projeto | Descrição | Tecnologias |
 |----------|------------|--------------|
-| [Sistema de Tarefas](https://github.com/julionxp/sistemaDeTarefas_api) | Gerenciamento de tarefas | Java · Spring Boot · Maven · Thymeleaf · H2 |
-| [Cadastro Básico](https://github.com/julionxp/CadastroBasico_api) | Cadastro e autenticação de usuários | Java · Spring Boot · Maven · Thymeleaf · H2 |
-| [Agenda de Contatos](https://github.com/julionxp/AgendaDeContatos_api) | Implementa uma agenda completa de contatos | Java · Spring Boot · Maven · Thymeleaf · MySQL |
-| [SecureAccess](https://github.com/julionxp/SecureAccess_api) | Sistema seguro de cadastro e login de usuários | Java · Spring Security · Maven · Thymeleaf · MySQL |
+| [Sistema de Tarefas](https://github.com/julionxp/sistemaDeTarefas_api) | Gerenciamento de tarefas | <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/> <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white"/> <img src="https://img.shields.io/badge/H2%20Database-003366?style=for-the-badge"/> |
+| [Cadastro Básico](https://github.com/julionxp/CadastroBasico_api) | Cadastro e autenticação de usuários | <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/> <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white"/> <img src="https://img.shields.io/badge/H2%20Database-003366?style=for-the-badge"/> |
+| [Agenda de Contatos](https://github.com/julionxp/AgendaDeContatos_api) | Implementa uma agenda completa de contatos | <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/> <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/> |
+| [SecureAccess](https://github.com/julionxp/SecureAccess_api) | Sistema seguro de cadastro e login de usuários | <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/> <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/> <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/> |
 
 </div>
+
 
 
 ---
