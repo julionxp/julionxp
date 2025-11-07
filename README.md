@@ -8,14 +8,6 @@
 
 ---
 
-<picture align="">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/julionxp/jooseryan/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/julionxp/jooseryan/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/julionxp/jooseryan/output/github-contribution-grid-snake-dark.svg">
-</picture>
-
----
-
 ### 🛠️ Tecnologias & Ferramentas
 
 <p align="left">
@@ -37,10 +29,12 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julionxp&layout=compact&langs_count=7&title_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117&hide_border=true" />
 </div>
 
-<picture align="">
+<picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/julionxp/jooseryan/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/julionxp/jooseryan/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/julion/jooseryan/output/github-contribution-grid-snake-dark.svg">
+  <p align="center">
+    <img src="https://github.com/julionxp/julionxp/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  </p>
 </picture>
 
 ---
