@@ -8,11 +8,11 @@
 
 ---
 
-### 🧠 Sobre mim
-
-- 💻 Sou apaixonado por tecnologia, código limpo e segurança da informação.  
-- ⚡ Gosto de desafios e projetos práticos (API REST, Spring Security, MySQL).  
-- 🎯 Atualmente estou estudando **Spring Security e integração com bancos de dados.**
+<picture align="">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/julionxp/jooseryan/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/julionxp/jooseryan/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/julionxp/jooseryan/output/github-contribution-grid-snake-dark.svg">
+</picture>
 
 ---
 
@@ -25,15 +25,23 @@
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 ---
 
 ### 📊 GitHub Status
 
-<p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julionxp&layout=compact&langs_count=7&theme=radical"/>
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=julionxp&show_icons=true&include_all_commits=true&count_private=true&title_color=FFFFFF&icon_color=2496ED&text_color=FFFFFF&bg_color=0D1117&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julionxp&layout=compact&langs_count=7&title_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117&hide_border=true" />
+</div>
+
+<picture align="">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/julionxp/jooseryan/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/julionxp/jooseryan/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/julion/jooseryan/output/github-contribution-grid-snake-dark.svg">
+</picture>
 
 ---
 
@@ -48,27 +56,16 @@
 
 ---
 
-### 💬 Onde me encontrar
+## Conecte-se comigo
 
-<p align="center">
-  <a href="[https://www.linkedin.com/in/SEU_LINKEDIN](https://www.linkedin.com/in/j%C3%BAlio-cezar-408a46270/)" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+<div align="left">
   <a href="mailto:juliondiniz@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-FFFFFF?style=for-the-badge&logo=gmail&logoColor=EA4335" />
   </a>
-</p>
+  <a href="https://www.linkedin.com/in/j%C3%BAlio-cezar-408a46270/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-2496ED?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+  </a>
+  
+</div>
 
 ---
-
-### 🐍 Animação de Commits
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/julionxp/output/main/github-contribution-grid-snake.svg" alt="snake" />
-</p>
-
----
-
-<p align="center">
-  <i>“O código é poesia escrita em lógica.”</i> ✨
-</p>
