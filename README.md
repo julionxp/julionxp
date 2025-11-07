@@ -29,7 +29,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julionxp&layout=compact&langs_count=7&title_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117&hide_border=true" />
 </div>
 
-<p align="">
+<p align="center">
   <img src="https://github.com/julionxp/julionxp/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 
