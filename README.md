@@ -37,12 +37,17 @@
 
 ### 🧩 Projetos Recentes
 
+<div align="center">
+
 | Projeto | Descrição | Tecnologias |
 |----------|------------|--------------|
-| [Sistema de Tarefas](https://github.com/julionxp/sistemaDeTarefas_api) | Gerenciamento de tarefas | Java 17 | Spring Boot | Maven | Thymeleaf | H2
-| [Cadastro Básico](https://github.com/julionxp/CadastroBasico_api) | Cadastro e autenticação de usuários |  Java 17 | Spring Boot | Maven | Thymeleaf | H2
-| [Agenda de Contatos](https://github.com/julionxp/AgendaDeContatos_api) | Implementa uma agenda completa de contatos. |  Java 17 | Spring Boot | Maven | Thymeleaf | MySQL
-| [SecureAccess](https://github.com/julionxp/SecureAccess_api) | Sistema seguro de cadastro e login de usuários |  Java 17 | Spring Security | Maven | Thymeleaf | MySQL
+| [Sistema de Tarefas](https://github.com/julionxp/sistemaDeTarefas_api) | Gerenciamento de tarefas | Java · Spring Boot · Maven · Thymeleaf · H2 |
+| [Cadastro Básico](https://github.com/julionxp/CadastroBasico_api) | Cadastro e autenticação de usuários | Java · Spring Boot · Maven · Thymeleaf · H2 |
+| [Agenda de Contatos](https://github.com/julionxp/AgendaDeContatos_api) | Implementa uma agenda completa de contatos | Java · Spring Boot · Maven · Thymeleaf · MySQL |
+| [SecureAccess](https://github.com/julionxp/SecureAccess_api) | Sistema seguro de cadastro e login de usuários | Java · Spring Security · Maven · Thymeleaf · MySQL |
+
+</div>
+
 
 ---
 
