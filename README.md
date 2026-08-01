@@ -1,28 +1,28 @@
-<!-- Perfil: https://github.com/julionxp -->
+<!-- Profile: https://github.com/julionxp -->
 
-<h1 align="center">👋 Olá! Eu sou o Júlio Cezar</h1>
+<div align="center">
 
-<p align="center">
-  Desenvolvedor Backend apaixonado por construir APIs robustas, seguras e escaláveis utilizando Python.
-</p>
+# 👋 Welcome!
 
-<p align="center">
-Atualmente estudo e desenvolvo projetos focados em <strong>FastAPI</strong>, <strong>SQLAlchemy</strong>, <strong>PostgreSQL</strong>, autenticação com <strong>JWT</strong>, Docker e boas práticas de desenvolvimento de APIs REST.
-</p>
+🇧🇷 [Português](README.pt-BR.md)
 
----
+🇺🇸 **English**
 
-## 🚀 Sobre mim
-
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas
-- 💻 Focado em Desenvolvimento Backend com Python
-- 📚 Estudando arquitetura de APIs REST, autenticação, autorização e bancos relacionais
-- 🔍 Sempre buscando escrever código limpo, organizado e de fácil manutenção
-- 🚀 Em constante evolução através de projetos práticos
+</div>
 
 ---
 
-## 🛠️ Tecnologias
+## 🚀 About Me
+
+- 🎓 Systems Analysis and Development Student
+- 💻 Backend Developer focused on Python
+- 📚 Currently studying REST API architecture, authentication, authorization, and relational databases
+- 🔍 Passionate about writing clean, organized, and maintainable code
+- 🚀 Continuously improving through hands-on projects
+
+---
+
+## 🛠️ Technologies
 
 <p>
 
@@ -46,7 +46,7 @@ Atualmente estudo e desenvolvo projetos focados em <strong>FastAPI</strong>, <st
 
 ---
 
-## 📈 Estatísticas
+## 📈 GitHub Stats
 
 <div align="center">
 
@@ -64,36 +64,36 @@ Atualmente estudo e desenvolvo projetos focados em <strong>FastAPI</strong>, <st
 
 ---
 
-## 🧩 Projetos em Destaque
+## 🚀 Featured Projects
 
 <div align="center">
 
-| Projeto | Descrição | Tecnologias |
-|----------|------------|--------------|
-| **[Blog API](https://github.com/julionxp/blog_api)** | API REST desenvolvida com **FastAPI**, **SQLAlchemy Assíncrono**, **PostgreSQL** e **Docker**. Implementa autenticação e autorização com **JWT**, **OAuth2**, hash seguro de senhas, controle de acesso às rotas e gerenciamento de usuários e artigos. | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/> <img src="https://img.shields.io/badge/OAuth2-3C873A?style=for-the-badge"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> |
-| **[API CURSOS](https://github.com/julionxp/api_cursos)** | API REST desenvolvida com **FastAPI**, **SQLAlchemy Assíncrono**, **PostgreSQL** e **Docker**. Implementa um CRUD completo de cursos seguindo uma arquitetura organizada em camadas. | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> |
-| **[<a href="https://agenda-django-2cdw.onrender.com/">Agenda Django</a>](https://github.com/julionxp/projeto_agenda_django)** | Aplicação web completa desenvolvida com **Django**, utilizando **PostgreSQL** e autenticação baseada em **JWT**. Possui CRUD de contatos, paginação, upload de imagens, autenticação de usuários e deploy em produção. | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/Django%20REST-ff1709?style=for-the-badge&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/> <img src="https://img.shields.io/badge/Gunicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white"/> <img src="https://img.shields.io/badge/Pillow-8CAAE6?style=for-the-badge"/> |
-| **[SecureAccess](https://github.com/julionxp/SecureAccess_api)** | API REST desenvolvida com **Spring Boot** e **Spring Security**, implementando autenticação, login seguro e controle de acesso utilizando **JWT** e **MySQL**. | <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/> <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/> |
+| Project | Description | Technologies |
+|----------|-------------|--------------|
+| **[Blog API](https://github.com/julionxp/blog_api)** | REST API built with **FastAPI**, **Async SQLAlchemy**, **PostgreSQL**, and **Docker**. Implements **JWT** and **OAuth2** authentication, secure password hashing, route authorization, and complete user and article management. | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/> <img src="https://img.shields.io/badge/OAuth2-3C873A?style=for-the-badge"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> |
+| **[API CURSOS](https://github.com/julionxp/api_cursos)** | REST API built with **FastAPI**, **Async SQLAlchemy**, **PostgreSQL**, and **Docker**. Implements a complete CRUD for course management following a layered architecture. | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> |
+| **[Agenda Django](https://agenda-django-2cdw.onrender.com/)** | Complete web application built with **Django** using **PostgreSQL** and **JWT** authentication. Features contact management, pagination, image uploads, user authentication, and production deployment. | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/Django%20REST-ff1709?style=for-the-badge&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/> <img src="https://img.shields.io/badge/Gunicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white"/> <img src="https://img.shields.io/badge/Pillow-8CAAE6?style=for-the-badge"/> |
+| **[SecureAccess](https://github.com/julionxp/SecureAccess_api)** | REST API built with **Spring Boot** and **Spring Security**, implementing secure authentication, authorization, and JWT-based access control with **MySQL**. | <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/> <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/> |
 
 </div>
 
 ---
 
-## 📚 Atualmente estudando
+## 📚 Currently Learning
 
 - FastAPI
-- SQLAlchemy Async
+- Async SQLAlchemy
 - PostgreSQL
 - Docker
 - JWT
 - OAuth2
-- Autenticação e Autorização
-- Arquitetura de APIs REST
-- Deploy em Cloud Linux com NGINX e PostreSQL
+- Authentication & Authorization
+- REST API Architecture
+- Linux Cloud Deployment with Nginx and PostgreSQL
 
 ---
 
-## 📫 Contato
+## 📫 Contact
 
 <p>
 
